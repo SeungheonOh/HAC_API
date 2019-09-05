@@ -1,12 +1,12 @@
 # HAC_API
 HAC_API is a convenient method to fetch your classes and grades for HomeAccessCenter
 
-## Example
+## Example - example.go
 ```
 package main
 
 import (
-    "github.com/SeungheonOh/HAC_API
+    "github.com/SeungheonOh/HAC_API"
     "fmt"
 )
 
