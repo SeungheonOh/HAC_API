@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/SeungheonOh/HAC_API"
+	hac "github.com/SeungheonOh/HAC_API"
 )
 
 func main() {
